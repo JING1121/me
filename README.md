@@ -1,4 +1,7 @@
 # Project Background
+Airbnb operates in the hospitality and travel industry, specifically in the vacation rental and homestay sector, which has transformed traditional lodging through its innovative platform.
+Established in 2008, Airbnb has been active for over 15 years, growing from a small startup to a globally recognized brand with millions of listings in over 220 countries and regions.
+Airbnb employs a peer-to-peer marketplace model, connecting hosts who have accommodations to rent with guests seeking lodging. It generates revenue through service fees charged to both hosts and guests. The platform supports a variety of property types, from private homes and apartments to unique stays like castles and treehouses.
 Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
 
 Insights and recommendations are provided on the following key areas:
